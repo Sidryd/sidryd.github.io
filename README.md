@@ -6,6 +6,6 @@ Have you ever had a problem and decided to searched the internet for a solution?
 
 ### Interested in visualizations using `R`? Here is some tricks using the `ggplot2`-package.
 
-[Adjust a ggplot2 theme](_posts/2021-09-29-ggtheme.md)
+[Adjust a ggplot2 theme](_posts/2021-09-29-Adjust_a_ggplot_theme.md)
 
-[Updating the default color/fill scheme in ggplot](_posts/2021-09-29-ggcolor.md)
+[Updating the default color/fill scheme in ggplot](_posts/2021-09-29-Updating_the_default_color_scheme_in_ggplot.md)
