@@ -1,3 +1,9 @@
+---
+layout: page
+title: A blog, I guess
+subtitle: Updating the default color/fill scheme in ggplot
+---
+
 # Updating the default color/fill scheme in ggplot
 
 
