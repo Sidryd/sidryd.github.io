@@ -2,9 +2,9 @@
 layout: page
 title: A blog, I guess
 subtitle: Updating the default color/fill scheme in ggplot
+tags: [R, ggplot2, graph]
 ---
 
-# Updating the default color/fill scheme in ggplot
 
 
 Viridis
