@@ -1,5 +1,6 @@
 ---
 layout: post
+title: hej
 subtitle: Adjust a ggplot theme
 tags: [R, ggplot2, graph]
 ---
