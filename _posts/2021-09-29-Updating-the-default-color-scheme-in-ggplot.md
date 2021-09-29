@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Hej
 subtitle: Updating the default color scheme in ggplot
 tags: [R, ggplot2, graph]
 ---
