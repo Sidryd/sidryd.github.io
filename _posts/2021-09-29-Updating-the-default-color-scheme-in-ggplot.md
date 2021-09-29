@@ -1,3 +1,6 @@
+---
+title: A blog, I guess
+---
 
 # Updating the default color scheme in ggplot
 
