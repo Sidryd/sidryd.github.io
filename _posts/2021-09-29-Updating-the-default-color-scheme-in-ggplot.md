@@ -1,6 +1,5 @@
 
-# Updating the default color/fill scheme in ggplot
-
+# Updating the default color scheme in ggplot
 
 Viridis
 
