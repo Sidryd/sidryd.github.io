@@ -8,4 +8,4 @@ Have you ever had a problem and decided to searched the internet for a solution?
 
 [Adjust a ggplot2 theme](_posts/2021-09-29-Adjust_a_ggplot_theme.md)
 
-[Updating the default color/fill scheme in ggplot](_posts/2021-09-29-Updating_the_default_color_scheme_in_ggplot.md)
+[Updating the default color/fill scheme in ggplot](_posts/2021-09-29-Updating-the-default-color-scheme-in-ggplot.md)
