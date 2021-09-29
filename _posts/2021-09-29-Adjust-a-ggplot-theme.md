@@ -1,3 +1,6 @@
+---
+title: A blog, I guess
+---
 
 # Adjust a ggplot theme
 
