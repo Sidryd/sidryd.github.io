@@ -2,7 +2,7 @@
 title: A blog, I guess
 ---
 
-# Updating the default color scheme in ggplot
+# Updating the default color scheme in ggplot2
 
 Viridis
 
